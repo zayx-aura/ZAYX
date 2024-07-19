@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZAYX - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            color: #666;
+            text-align: justify;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to ZAYX</h1>
+        </header>
+        <section class="bio">
+            <h2>About Me</h2>
+            <p>I am a student preparing for JEE Mains and other college entrance exams. My goal is to pursue B.Tech from a well-known institute and eventually build a successful company. I am passionate about learning and technology.</p>
+        </section>
+        <footer class="footer">
+            <p>&copy; 2024 ZAYX. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
